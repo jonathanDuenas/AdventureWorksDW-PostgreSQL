@@ -1,4 +1,4 @@
 # AdventureWorksDW-PostgreSQL
 
 
-Just restore it. it just woks
+Just restore it. it just works
