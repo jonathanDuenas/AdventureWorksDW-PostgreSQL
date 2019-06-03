@@ -2,4 +2,4 @@
 
 A dump of the AdventureWorksDW 2012 for PostgreSQL.
 
-Just restore it. it just works
+Just restore it. it just works in every format
